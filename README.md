@@ -55,10 +55,9 @@ Frontend project using the PokéAPI
 
 # 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gianlucacastellano&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianlucacastellano&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Gianlucacastellano&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gianlucacastellano&layout=compact&theme=dark&hide_border=true)
 
 ### 🕹️ Contribution Snake
 
@@ -75,4 +74,5 @@ Frontend project using the PokéAPI
 <div align="center">
   <sub>Built with ❤️ and a lot of Coffee ☕</sub>
 </div>
+
 
