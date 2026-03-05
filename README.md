@@ -55,7 +55,7 @@ Frontend project using the PokéAPI
 
 # 📊 GitHub Insights
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Gianlucacastellano&show_icons=true&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true)
 
 ### 🕹️ Contribution Snake
 
@@ -72,6 +72,7 @@ Frontend project using the PokéAPI
 <div align="center">
   <sub>Built with ❤️ and a lot of Coffee ☕</sub>
 </div>
+
 
 
 
