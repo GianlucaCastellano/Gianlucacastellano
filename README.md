@@ -57,6 +57,8 @@ Frontend project using the PokéAPI
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gianlucacastellano&theme=dark&hide_border=true)
+
 ### 🕹️ Contribution Snake
 
 <p align="center">
@@ -72,6 +74,7 @@ Frontend project using the PokéAPI
 <div align="center">
   <sub>Built with ❤️ and a lot of Coffee ☕</sub>
 </div>
+
 
 
 
