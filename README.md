@@ -9,7 +9,7 @@
 _(Fachinformatiker für Anwendungsentwicklung)_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-React%20%26%20Backend-3498db?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Learning-React%20%26%20NodeJS-3498db?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Building-Web%20Apps%20%26%20APIs-2ecc71?style=flat-square" />
 </p>
 
@@ -73,6 +73,7 @@ Frontend project using the PokéAPI
 <div align="center">
   <sub>Built with ❤️ and a lot of Coffee ☕</sub>
 </div>
+
 
 
 
