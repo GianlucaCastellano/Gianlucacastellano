@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="150"/>
 
-# Hey, I'm Gian Luca😄
+# Hey, I'm Gian Luca🔥
 
 ### 👨‍💻 Software Developer in Training
 
