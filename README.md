@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="150"/>
 
-# Hi, I'm Gian Luca 👋
+# Hey, I'm Gian Luca😄
 
 ### 👨‍💻 Software Developer in Training
 
