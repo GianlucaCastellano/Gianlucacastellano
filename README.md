@@ -25,21 +25,27 @@ I love building clean Web Apps, robust APIs, and creative side projects while di
 ---
 # 🧰 Tech Stack
 
-### 💻 Frontend & Backend
+### 🌐 Languages & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,sequelize,mocha" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### 🔙 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize" />
+</p>
+
+### 🧪 Testing & Validation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mocha" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joi-white?style=flat-square&logo=hapijs&logoColor=631a31" />
+  <img src="https://img.shields.io/badge/Knex.js-E16426?style=flat-square" />
 </p>
 
 ### 🛠️ Tools & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman,docker" />
-</p>
-
-### 📚 Libraries & Utilities
-<p align="center">
-  <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knex.js-E16426?style=flat-square" />
-  <img src="https://img.shields.io/badge/Joi-white?style=flat-square&logo=hapijs&logoColor=631a31" />
 </p>
 
 ---
