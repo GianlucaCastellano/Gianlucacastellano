@@ -23,19 +23,23 @@ I love building clean Web Apps, robust APIs, and creative side projects while di
 </div>
 
 ---
-
 # 🧰 Tech Stack
 
 ### 💻 Frontend & Backend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,sequelize,mocha" />
 </p>
 
-### 🛠️ Tools
-
+### 🛠️ Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman,docker" />
+</p>
+
+### 📚 Libraries & Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knex.js-E16426?style=flat-square" />
+  <img src="https://img.shields.io/badge/Joi-white?style=flat-square&logo=hapijs&logoColor=631a31" />
 </p>
 
 ---
