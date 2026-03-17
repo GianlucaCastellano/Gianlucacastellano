@@ -29,9 +29,6 @@ I love building clean Web Apps, robust APIs, and creative side projects while di
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,sequelize,mocha" />
   <br />
-  <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joi-white?style=flat-square&logo=hapijs&logoColor=631a31" />
-  <img src="https://img.shields.io/badge/Knex.js-E16426?style=flat-square" />
 </p>
 
 ### 🛠️ Tools
