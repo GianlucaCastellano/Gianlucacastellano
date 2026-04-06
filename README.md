@@ -52,14 +52,11 @@ Frontend project using the PokéAPI
 
 <table width="100%">
   <tr>
-    <td width="40%" valign="top">
-      <h3>🚀 My Coding Insights</h3>
-      <p>I'm constantly evolving my stack. Currently focusing on <b>Scalable Backend Architectures</b> and <b>Advanced React Patterns</b>.</p>
-      <br />
-      <img src="https://img.shields.io/badge/Status-Active%20Developing-brightgreen?style=flat-square" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true" />
     </td>
-    <td width="60%" align="center">
-      <img src="github-metrics.svg" width="100%" alt="GitHub Metrics" />
+    <td width="50%" align="center">
+      <img src="github-metrics.svg" width="100%" />
     </td>
   </tr>
 </table>
