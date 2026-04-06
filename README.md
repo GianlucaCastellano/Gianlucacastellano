@@ -51,15 +51,10 @@ Frontend project using the PokéAPI
 ---
 # 📊 GitHub Insights
 
-<table width="100%">
-  <tr>
-    </td>
-    <td width="100%" align="center" valign="top">
-      <h3 align="center">💻 Most Used Languages</h3>
-      <img src="github-languages.svg" width="100%" alt="Languages" />
-    </td>
-  </tr>
-</table>
+  <h3 align="center">💻 Most Used Languages</h3>
+  <img src="github-languages.svg" width="100%" alt="Languages" />
+
+
 
 ### 🕹️ Contribution Snake
 
