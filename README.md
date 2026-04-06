@@ -55,10 +55,10 @@ Frontend project using the PokéAPI
 <table width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
     </td>
     <td width="45%" align="center">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gianlucacastellano&layout=compact&theme=react&hide_border=true&include_all_commits=true&cache_seconds=60)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianlucacastellano&layout=compact&theme=react&hide_border=true&include_all_commits=true&cache_seconds=60" alt="Top Langs" />
     </td>
   </tr>
 </table>
