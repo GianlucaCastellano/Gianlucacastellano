@@ -50,18 +50,10 @@ Frontend project using the PokéAPI
 
 ---
 
-# 📊 GitHub Insights
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="github-metrics.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📊 My Coding Activity</h3>
+  <img src="github-metrics.svg" width="450" alt="GitHub Metrics" />
+</div>
 
 ### 🕹️ Contribution Snake
 
