@@ -58,8 +58,8 @@ Frontend project using the PokéAPI
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianlucacastellano&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
     </td>
     <td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Gianlucacastellano/Gianlucacastellano/main/lang-stats.svg" alt="Top Langs" />
-</td>
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+    </td>
 
   </tr>
 </table>
