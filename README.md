@@ -49,12 +49,17 @@ Browser game written in pure JavaScript with a highscore system
 Frontend project using the PokéAPI
 
 ---
-# 📊 GitHub Insights
+<h1 align="center">📊 GitHub Insights</h1>
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="github-metrics.svg" width="100%" />
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🕒 Coding Habits</h3>
+      <img src="github-habits.svg" width="100%" alt="Coding Habits" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">💻 Most Used Languages</h3>
+      <img src="github-languages.svg" width="100%" alt="Languages" />
     </td>
   </tr>
 </table>
