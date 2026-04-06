@@ -49,6 +49,7 @@ Browser game written in pure JavaScript with a highscore system
 Frontend project using the PokéAPI
 
 ---
+# 📊 GitHub Insights
 
 <table width="100%">
   <tr>
