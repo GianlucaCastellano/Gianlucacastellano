@@ -50,10 +50,19 @@ Frontend project using the PokéAPI
 
 ---
 
-<div align="center">
-  <h3>📊 My Coding Activity</h3>
-  <img src="github-metrics.svg" width="450" alt="GitHub Metrics" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="40%" valign="top">
+      <h3>🚀 My Coding Insights</h3>
+      <p>I'm constantly evolving my stack. Currently focusing on <b>Scalable Backend Architectures</b> and <b>Advanced React Patterns</b>.</p>
+      <br />
+      <img src="https://img.shields.io/badge/Status-Active%20Developing-brightgreen?style=flat-square" />
+    </td>
+    <td width="60%" align="center">
+      <img src="github-metrics.svg" width="100%" alt="GitHub Metrics" />
+    </td>
+  </tr>
+</table>
 
 ### 🕹️ Contribution Snake
 
