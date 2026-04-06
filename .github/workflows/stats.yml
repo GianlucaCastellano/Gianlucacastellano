@@ -1,18 +1,23 @@
-name: Generate Stats Images
+name: Metrics
 on:
-  schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch: 
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate Language Stats
-        uses: anuraghazra/github-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: Gianlucacastellano
-          output: lang-stats.svg
-          include_all_commits: true
-          layout: compact
-          theme: react
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Gianlucacastellano
+          template: classic
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: Europe/Berlin
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          output_action: commit
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
