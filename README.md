@@ -41,7 +41,7 @@ I love building clean Web Apps, robust APIs, and creative side projects while di
 # 🚀 Featured Projects
 
 🔹 **League of Legends REST API**
-Node.js + Express + PostgreSQL API with complex relations (1:1, 1:n, n:m)
+Node.js + Express + PostgreSQL API with complex relations
 
 🔹 **SandysMatchMap**
 Are you the one? Tracking and propability tool
