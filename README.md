@@ -42,8 +42,8 @@ I love building clean Web Apps, robust APIs, and creative side projects while di
 🔹 **League of Legends REST API**
 Node.js + Express + PostgreSQL API with complex relations (1:1, 1:n, n:m)
 
-🔹 **Snake Game**
-Browser game written in pure JavaScript with a highscore system
+🔹 **SandysMatchMap**
+Are you the one? Tracking and propability tool
 
 🔹 **Pokédex Web App**
 Frontend project using the PokéAPI
