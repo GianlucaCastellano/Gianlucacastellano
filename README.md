@@ -1,77 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="150"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="120" />
 
-# Hey, I'm Gian Luca🔥
+## Gian Luca
 
-### 👨‍💻 Software Developer in Training
+Apprentice Software Developer (FIAE) based in Germany.<br>
+Focused on backend architecture, REST APIs, and full-stack web applications.
 
-_(Fachinformatiker für Anwendungsentwicklung)_
+<br>
+
+### Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-React%20%26%20NodeJS-3498db?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Building-Web%20Apps%20%26%20APIs-2ecc71?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,sequelize,docker,git,github,vscode,postman" />
 </p>
 
----
+<br>
 
-### 🧠 About Me
-
-I'm a passionate developer currently in my apprenticeship as a **Fachinformatiker für Anwendungsentwicklung**.
-I love building clean Web Apps, robust APIs, and creative side projects while diving deep into **React & Backend Architecture**.
-
-</div>
-
----
-# 🧰 Tech Stack
-
-### 💻 Frontend & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,sequelize,mocha" />
-  <br />
+<p align="center">
+  <img src="github-languages.svg" width="48%" alt="Languages" />
 </p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman,docker" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🔹 **League of Legends REST API**
-Node.js + Express + PostgreSQL API with complex relations
-
-🔹 **SandysMatchMap**
-Are you the one? Tracking and propability tool
-
-🔹 **Pokédex Web App**
-Frontend project using the PokéAPI
-
----
-<h3>💻 Most Used Languages</h3>
-  <img align="center" src="github-languages.svg" width="50%" alt="Languages" />
-
-### 🕹️ Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gianlucacastellano/Gianlucacastellano/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
-
-# ⚡ Fun Fact
-
-> 🦦 **Otters hold hands while sleeping so they don’t drift apart.**
-
-<div align="center">
-  <sub>Built with ❤️ and a lot of Coffee ☕</sub>
 </div>
-
-
-
-
-
-
-
