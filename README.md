@@ -5,8 +5,8 @@
 **Software Developer (FIAE)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs-18181b?style=flat-square&labelColor=27272a" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Node%20%7C%20Python-18181b?style=flat-square&labelColor=27272a" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs%20%7C%20Web Applications-18181b?style=flat-square&labelColor=27272a" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Node-18181b?style=flat-square&labelColor=27272a" />
   <img src="https://img.shields.io/badge/Location-Germany-18181b?style=flat-square&labelColor=27272a" />
 </p>
 
