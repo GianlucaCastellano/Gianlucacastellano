@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Germany-18181b?style=flat-square&labelColor=27272a" />
 </p>
 
-Building backend services, RESTful APIs, and full-stack web applications.<br>
-Working primarily with relational databases, and containerized environments.
+Building backend services, RESTful APIs, and full-stack web applications.
 
 ---
 
